@@ -14,8 +14,6 @@ Usabilidade: Este teste assegura que o processo de login é funcional e intuitiv
 - Acessa o campo de senha e insere a senha correta.
 - Clica no botão para submeter o login. 
 
-Tempo de Execução: 
-
 2. Teste de Criação de Bug
 Objetivo: Validar a criação de um novo bug no sistema Mantis.
 
@@ -26,8 +24,6 @@ Usabilidade: Este teste garante que o processo de criação de um bug é claro e
 - Preenche os campos de resumo e descrição do bug.
 - Envia o formulário para criar o bug.
 
-Tempo de Execução: 
-
 3. Teste de Visualização de Bug
 Objetivo: Confirmar que a visualização dos detalhes de um bug funciona corretamente.
 
@@ -37,8 +33,6 @@ Usabilidade: Este teste verifica se o usuário pode visualizar os detalhes de qu
 - Clicar em cada link de bug na lista para abrir os detalhes.
 - Verificar se os detalhes do bug são exibidos corretamente.
 - Voltar à lista de bugs para continuar a verificação.
-
-Tempo de Execução: 
 
 CONSIDERAÇÕES FINAIS
 
